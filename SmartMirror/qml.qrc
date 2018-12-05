@@ -1,0 +1,18 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>HourForm.ui.qml</file>
+        <file>WeatherForm.ui.qml</file>
+        <file>NotesreceiverForm.ui.qml</file>
+        <file>AuthUsersForm.ui.qml</file>
+        <file>HomekitForm.ui.qml</file>
+        <file>NewsForm.ui.qml</file>
+        <file>ForecastForm.ui.qml</file>
+        <file>SceneForm.ui.qml</file>
+        <file>HomeKit.qml</file>
+        <file>Siri.qml</file>
+        <file>UpNews.qml</file>
+        <file>UpNewsForm.ui.qml</file>
+        <file>backend.py</file>
+    </qresource>
+</RCC>
